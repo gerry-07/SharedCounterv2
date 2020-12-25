@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shared Counter</string>
+    <string name="herlaad">Reload</string>
+    <string name="zet">Set</string>
+    <string name="_1">+1</string>
+    <string name="__1">-1</string>
+    <string name="button">Button</string>
+    <string name="bier_counter">BIER COUNTER</string>
+    <string name="een">+1</string>
+    <string name="twee">+2</string>
+    <string name="drie">+3</string>
+    <string name="vier">+4</string>
+    <string name="vijf">+5</string>
+</resources>
